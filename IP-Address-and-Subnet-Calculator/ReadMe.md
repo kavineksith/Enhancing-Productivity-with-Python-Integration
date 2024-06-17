@@ -82,7 +82,7 @@ To use the IP Subnet Calculator, follow these steps:
 - **None**: Apart from the standard library modules, no external dependencies are required to run this script. All functionalities are implemented using built-in Python modules, ensuring portability and ease of use.
 
 ### License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/kavineksith/Enhancing-Productivity-with-Python-Integration/blob/main/LICENSE) file for details.
 
 ### Conclusion
 The IP Subnet Calculator provides a versatile tool for network engineers, administrators, and enthusiasts to efficiently manage and analyze IP addresses and subnets. With its user-friendly interface, comprehensive functionalities, and robust error handling, it serves as a valuable asset in networking tasks and projects. The IP Subnet Calculator script is self-contained and does not rely on any third-party libraries beyond the Python standard library. This makes it easy to deploy and use across different environments without the need for additional installations or dependencies.
