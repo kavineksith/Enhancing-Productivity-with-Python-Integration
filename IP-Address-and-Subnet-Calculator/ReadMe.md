@@ -21,30 +21,6 @@ The IP Subnet Calculator is a Python script designed to perform various calculat
 8. **Error Handling:**
     - Robust error handling for various scenarios like invalid inputs, file not found, permission denied, etc.
 
-### Installation
-To begin using the IP Subnet Calculator, follow these straightforward steps:
-
-1. **Clone the Repository**: Obtain the source code by cloning the GitHub repository:
-   ```
-   git clone https://github.com/kavineksith/IP-Address-and-Subnet-Calculator.git
-   ```
-
-2. **Navigate to the Project Directory**: Move into the cloned project directory:
-   ```
-   cd IP-Address-and-Subnet-Calculator
-   ```
-
-3. **Run the IP Subnet Calculator**: Execute the appropriate script (`ip_address_manager_v4.py` for IPv4 or `ip_address_manager_v6.py` for IPv6) to start using the IP Subnet Calculator:
-   ```
-   python ip_address_manager_v4.py
-   ```
-
-   ```
-   python ip_address_manager_v6.py
-   ```
-
-By following these steps, you'll have the IP Subnet Calculator up and running in no time, ready to assist with your network management tasks.
-
 ### Usage
 To use the IP Subnet Calculator, follow these steps:
 1. **Run the Script:**
@@ -104,9 +80,6 @@ To use the IP Subnet Calculator, follow these steps:
 
 #### External Libraries
 - **None**: Apart from the standard library modules, no external dependencies are required to run this script. All functionalities are implemented using built-in Python modules, ensuring portability and ease of use.
-
-### Contributing
-Contributions to the IP Address and Subnet Calculator are welcome! If you find any bugs or have suggestions for improvements, please submit an issue or open a pull request on GitHub.
 
 ### License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
